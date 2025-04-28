@@ -1,4 +1,4 @@
-# ANLP-HW3
+# ANLP-Project
 ### We explored four Paraphraser models:
 1. QWEN (baseline)
 2. AuthorMist
